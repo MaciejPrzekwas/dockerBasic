@@ -2,10 +2,7 @@
 
 
 
-#Docker allows you to run on your site in an isolated - container. 
-#In the case of virtualization problems, it is a lightweight process that does not consume 
-#large amounts of hardware resources. As a result, 
-#it enables you to create a job that gives you the assurance that it will work the same on any machine.
+#Docker allows you to run on your site in an isolated - container. In the case of virtualization problems, it is a lightweight process that does not consume large amounts of hardware resources. As a result, it enables you to create a job that gives you the assurance that it will work the same on any machine.
 
 #The application shows how to implement a docker for Java projects using Spring.
 
@@ -40,3 +37,6 @@ On ps or docker toolbox I used:
 > docker ps
 #and if you would like to stop this container type:
 > docker stop containerId
+
+
+https://hub.docker.com/
