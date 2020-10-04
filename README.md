@@ -1,12 +1,6 @@
 # dockerBasic
 
-  .   ____          _            __ _ _
- /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
-( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
- \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
-  '  |____| .__|_| |_|_| |_\__, | / / / /
- =========|_|==============|___/=/_/_/_/
-`\
+
 
 #Docker allows you to run on your site in an isolated - container. 
 #In the case of virtualization problems, it is a lightweight process that does not consume 
